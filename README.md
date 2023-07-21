@@ -1,0 +1,1 @@
+https://ci.appveyor.com/project/6kdgdair9j/homework2avto/settings/badges#:~:text=%5B!%5BBuild%20status%5D(https%3A//ci.appveyor.com/api/projects/status/g200wu5x8g8ua467/branch/main%3Fsvg%3Dtrue)%5D(https%3A//ci.appveyor.com/project/6git add -Akdgdair9j/homework2avto/branch/main)
